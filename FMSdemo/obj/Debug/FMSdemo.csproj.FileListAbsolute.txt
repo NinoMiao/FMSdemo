@@ -1,0 +1,8 @@
+D:\My Documents\SharpDevelop Projects\ttttt\FMSdemo\obj\Debug\FMSdemo.csprojResolveAssemblyReference.cache
+D:\My Documents\SharpDevelop Projects\ttttt\FMSdemo\obj\Debug\FMSdemo.MainForm.resources
+D:\My Documents\SharpDevelop Projects\ttttt\FMSdemo\obj\Debug\FMSdemo.csproj.GenerateResource.Cache
+D:\My Documents\SharpDevelop Projects\ttttt\FMSdemo\bin\Debug\FMSdemo.exe.config
+D:\My Documents\SharpDevelop Projects\ttttt\FMSdemo\bin\Debug\FMSdemo.exe
+D:\My Documents\SharpDevelop Projects\ttttt\FMSdemo\bin\Debug\FMSdemo.pdb
+D:\My Documents\SharpDevelop Projects\ttttt\FMSdemo\obj\Debug\FMSdemo.exe
+D:\My Documents\SharpDevelop Projects\ttttt\FMSdemo\obj\Debug\FMSdemo.pdb
